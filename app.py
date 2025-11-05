@@ -1,3 +1,4 @@
+# Librerias que se van a utilizar
 import os
 import pandas as pd
 from dash import Dash, html, dcc, dash_table
